@@ -1,2 +1,19 @@
 # CodeScope
-Visualize, analyze, and understand Python code through interactive graphs that break programs into imports, functions, classes, loops, and dependencies.
+
+A Python application for exploring and understanding Python projects.
+
+## Features
+- Project scanning
+- Interactive code graph
+- AI code explanations
+- Explanation simplification
+- Error analysis
+- AI model selection
+
+## Installation
+
+Download the latest executable from [Releases](https://github.com/mohamedsamman991/CodeScope/releases).
+
+## Author
+
+Mohamed Samman
